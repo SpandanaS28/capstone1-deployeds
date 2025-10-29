@@ -66,3 +66,4 @@ with tab2:
 
 st.markdown("---")
 st.caption("Tip: set an environment variable `API_URL` for deployment, or edit it in the sidebar.")
+
