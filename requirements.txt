@@ -1,8 +1,8 @@
-pandas
-numpy
-scikit-learn
-streamlit
-seaborn
-matplotlib
-scipy
+streamlit==1.50.0
+pandas>=2.2,<2.4
+numpy>=1.26,<2.4
+scikit-learn==1.5.2
+scipy>=1.11,<1.13
 requests
+matplotlib
+seaborn
